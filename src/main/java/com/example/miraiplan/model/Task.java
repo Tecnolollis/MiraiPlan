@@ -5,7 +5,7 @@ public class Task {
 
     private String title;
 
-
+    private String name;
 
     private String test;
 }
