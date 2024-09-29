@@ -7,5 +7,5 @@ public class Task {
 
     private String name;
 
-    private String test;
+    private String description;
 }
